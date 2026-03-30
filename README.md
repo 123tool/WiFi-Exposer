@@ -20,3 +20,5 @@ WiFi-Exposer adalah alat audit keamanan sederhana yang dirancang untuk mengekstr
 Pastikan Anda sudah menginstall Python, lalu jalankan:
 ```bash
 pip install requests
+chmod +x setup.sh
+./setup.sh
